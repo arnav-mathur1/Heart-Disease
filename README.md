@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This final project was done for an introductory CS course at TJHSST. It is a Machine learning project analyzing heart disease risk factors and comparing multiple classification models.
+This final project was done for an introductory CS course at TJHSST (Spring 2021). It is a Machine learning project analyzing heart disease risk factors and comparing multiple classification models.
 
 ## Overview
 - Cleaned and preprocessed heart disease data using **Pandas**
