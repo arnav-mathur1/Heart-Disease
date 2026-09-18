@@ -26,6 +26,6 @@ Python, Pandas, scikit-learn, Matplotlib, Seaborn, Jupyter Notebook
 
 In looking back at my work for the course, I read this book in October of 2020: "You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place" by Janelle Shane.
 
-At the time, I wrote about how the book changed the way I thought about AI. More than five years later, many of the issues I discussed like reward hacking, alignment, bias, and generalization are still central problems in AI and active areas of research at frontier labs.
+At the time, I [wrote about](https://docs.google.com/document/d/1oyQ26w_lWWbEB2j9yRD4FTwx8jcshI3_dIeJRu68Xfw/edit?usp=sharing) how the book changed the way I thought about AI. More than five years later, many of the issues I discussed like reward hacking, alignment, bias, and generalization are still central problems in AI and active areas of research at frontier labs.
 
 My past self would have been blown away by the speed of AI progress since then.
